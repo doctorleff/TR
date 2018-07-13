@@ -1,7 +1,7 @@
 
 import java.io.*;
 public class IncomeFile {
-// code for branch TOmCAT
+// code for branch TOMcAT
 static int total;
 static int tips;
 static int winnings;
